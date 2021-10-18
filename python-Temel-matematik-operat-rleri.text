@@ -1,0 +1,39 @@
+""matematik operatorleri:
+
++ toplama
+- çıkarma
+* çarpma
+/ bölme
+// işareti bir bölümdeki kalanın tam sayı kısmını veriyor 
+
+  örneğin :
+
+  a = 9
+
+  b = 5
+
+  a / b = 1.8
+
+  a // b =1
+
+% bölmeden kalanı verir 
+  örnek:a = 8
+  b = 3
+  print(a%b) cevap da 2 olur
+  
+**  bir sayının  üssünü bulmamızı sağlar  soldaki sağdakinin üssü olucak şekilde örneğin:
+  a = 2
+  b = 4
+  print(a ** b) karekökünü bulmak içinde yine  örnek olarak 25 ** 0.5 = 5   5  25 in kareköküdür
+
+- işaret değiştirme operatörü örneğin:
+  a = 2
+  print(-a) = -2
+
+
+
+
+  
+  
+  
+
